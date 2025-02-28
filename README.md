@@ -3,15 +3,7 @@
 
 Bienvenue sur mon portfolio personnel ! Ce projet présente mes compétences, mes projets réalisés et mes informations de contact. Il est construit avec **HTML**, **CSS** et **JavaScript**.
 
-👉 [Voir le site en ligne](https://votre-nom.github.io/votre-repo)  
-*(Remplacez par le lien de votre portfolio déployé)*
-
----
-
-## Aperçu
-
-![Aperçu du Portfolio](screenshot.png)  
-*(Ajoutez une capture d'écran de votre portfolio pour donner un aperçu visuel.)*
+👉 [Voir le site en ligne](https://danielc.github.io/portfolio-danielc)  
 
 ---
 
